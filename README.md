@@ -1,6 +1,6 @@
 # apns-tester
 
-为了使APNS的推送证书验证简单化，创建该Repo，自己亲测非常好用，关于证书的申请及操作步骤可查看[此文](http://45.63.124.43/apnstui-song-jing-cui)
+为了使APNS的推送证书验证简单化，创建该Repo，自己亲测非常好用，关于证书的申请及操作步骤可查看[此文](http://wenva.github.io/apnstui-song-jing-cui)
 
 ### 客户端
 使用xcode打开client/PushDemo，并修改BundleID即可，之后编译运行.
